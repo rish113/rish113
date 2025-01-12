@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rish113
 - 👀 I’m interested in Web Development and DSA...
-- 🌱 I’m currently learning ...cpp
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...mern
 - 📫 How to reach me ...srivastavarishi427@gmail.com
 
 <!---
